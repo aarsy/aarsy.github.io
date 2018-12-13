@@ -1,0 +1,6 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.aarsy.dfsample",
+               "sha256_cert_fingerprints": ["C8:B5:2D:15:0C:29:26:AA:5C:A0:62:77:33:93:33:F1:A7:02:8F:43:85:81:73:39:0D:BE:C6:4E:8C:99:63:B1"] }
+}]
+
